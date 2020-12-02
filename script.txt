@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+hai guys buat kalian yang suka dengan IoT dan pengen banget tahu alat alat IoT.
+aku mau ngenalin alat yang simple tapi berguna banget buat project IoT kalian.
+alat Ini tuh namanya modul relay. gunanya untuk menghubung atau memutuskan arus listrik sesuai 
+dengan trigger yang diberikan oleh mikrokontroller. relay punya 2 sisi yaitu trigger dan siwtch rangkaian.
+di sisi trigger ada vcc 5 vlot, ground dan sinyal input.di sisi switch rangkaian ada
+Normally open di mana rangkaian  secara default akan open dan listrik tidak mengalir jika tidak diberikan trigger. 
+sebaliknya ada NC atau normally close yang ketika tidak diberikan trigger maka rangkaian secara 
+default akan close sehingga NC biasa diterapkan untuk sistem pengaman dalam memutus saluran listrik.
+Untuk pengaplikasiannya lanjut di part 2
+BTW nama aku ilmi 1101183410 jurusan teknik telekomunikasi
